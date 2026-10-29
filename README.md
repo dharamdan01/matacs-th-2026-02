@@ -18,6 +18,4 @@ A design for evaluating contractor proposals using AI only to extract cited fact
 
 ## AI tool usage
 
-## AI Tool Usage
-
 I used ChatGPT to help structure the workflow, develop the scoring approach, and identify potential risks. I corrected ChatGPT's initial process-flow diagram because it incorrectly routed proposals that failed mandatory criteria to the human approval stage. I revised the flow to mark confirmed failures as ineligible and record them in the audit log, while flagging missing information for human review. I also independently calculated the proposal scores in WRITEUP.md and checked the deliverables against the assessment brief.
